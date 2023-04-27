@@ -1,5 +1,4 @@
-https://img.shields.io/github/license/siso5/discord-bot
-
+![LISENCE](https://img.shields.io/github/license/siso5/discord-bot)
 
 # discord-bot
 
