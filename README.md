@@ -1,4 +1,8 @@
-![LISENCE](https://img.shields.io/github/license/siso5/discord-bot)
+![LICENSE](https://img.shields.io/github/license/siso5/discord-bot)
+
+
+
+![Latest GitHub release](https://img.shields.io/github/v/release/siso5/discord-bot)
 
 # discord-bot
 
