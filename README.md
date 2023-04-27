@@ -39,7 +39,6 @@ pm2を用いた起動がおすすめです。
 　
  
         pm2 start Minecraft-bedrock-uptimebot.js --name minecraft-bedrock
-
 　
         pm2 start Minecraft--uptimebot.js --name minecraft-java
         
