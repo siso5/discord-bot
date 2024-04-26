@@ -53,11 +53,11 @@ node -vで確認できます...
 ```
 
 
-### 2.  discord, gamedigのライブラリーを入れる
+### 2.  discord, gamedig, dotenv のライブラリーを入れる
 
 以下のように入力する
 
-`npm install discord.js gamedig`
+`npm install`
 
 - 「discord.js」について
 
@@ -66,6 +66,10 @@ URL : [https://www.npmjs.com/package/discord.js?activeTab=readme](https://www.np
 - 「gamedig」について
 
 URL : [https://www.npmjs.com/package/gamedig](https://www.npmjs.com/package/gamedig)
+
+- 「dotenv」について
+
+URL : [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
 
 ### 3. 起動方法
 
