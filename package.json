@@ -1,10 +1,10 @@
 {
-  "name": "discord-bot-java",
+  "name": "Minecraft-uptimebot",
   "version": "1.0.0",
   "description": "your_bot_description",
   "main": "index.js",
   "scripts": {
-    "start": "node discord-bot-java.js"
+    "start": "node Minecraft-java-uptimebot.js"
   },
   "dependencies": {
     "discord.js": "^13.6.0",
