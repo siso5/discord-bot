@@ -20,9 +20,9 @@ function updateServerStatus() {
     host: 'www[.]xxx[.]net',
     port: 25565
   }).then((state) => {
-    console.log(`Minecraft Java is UP `);
+    console.log(`Minecraft Java is UP`);
     client.user.setPresence({
-      activities: [{ name: Minecraft Java available }],
+      activities: [{ name: 'Minecraft Java available' }],
       status: 'online'
     });
   }).catch((error) => {

@@ -17,12 +17,12 @@ client.on('ready', () => {
 function updateServerStatus() {
   Gamedig.query({
     type: 'minecraft',
-    host: 'ww[.]xxx[.]net',
+    host: 'www[.]xxx[.]net',
     port: 19132
   }).then((state) => {
-    console.log(`Minecraft Bedrock is UP `);
+    console.log(`Minecraft Bedrock is UP`);
     client.user.setPresence({
-      activities: [{ name: `Minecraft Bedrock available` }],
+      activities: [{ name: 'Minecraft Bedrock available' }],
       status: 'online'
     });
   }).catch((error) => {
