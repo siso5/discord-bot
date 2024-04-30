@@ -79,9 +79,9 @@ pm2を用いた起動がおすすめです。
 
 `npm install pm2 -g`
 
-`pm2 start minecraft-bedrock-uptimebot --name minecraft-bedrock`
+`pm2 start minecraft-bedrock-uptimebot.js --name minecraft-bedrock`
 
-`pm2 start minecraft-java-uptimebot --name minecraft-java`
+`pm2 start minecraft-java-uptimebot.js --name minecraft-java`
 
 `pm2 save && pm2 startup`
 
